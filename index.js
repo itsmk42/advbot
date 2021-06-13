@@ -60,7 +60,7 @@ async function fetchauth() {
 
 // BASIC SETTINGS
 prefix = '/';
-source_link = 'https://github.com/karmaisgreat/simple-whatsapp-bot';
+source_link = 'all hail lord mallugawd' 'https://github.com/itsmk42/advbot';
 
 // LOAD CUSTOM FUNCTIONS
 const getGroupAdmins = (participants) => {
